@@ -38,7 +38,7 @@ For backend has these dependencies:
 
 These need to be installed into the root folder by running this command:
 ```powershell
-npm install bcrypt colors dotenv express express-async-handler jsonwebtoken mongoose
+npm install bcryptjs colors dotenv express express-async-handler jsonwebtoken mongoose
 ```
 
 ## Frontend
