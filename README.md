@@ -20,7 +20,7 @@ The server must be running in the background which can be ran from the Full-stac
 ```powershell
 npm run server
 ```
-After both of these are running the the user can access the page in http://localhost:3000.<br>
+After both of these are running the the user can access the page when connecting to backend. For example my server is running on port 5000 I would then connect to http://localhost:5000 and the backend serves the page.<br>
 I did not use heroku to deploy the page because it required me to add credit card to use it.
 
 # dependencies
