@@ -64,7 +64,7 @@ which is set to production
 which sets the port where the backend is running and i have set it to 5000
 - MONGO_URI <br>
 Which is the connection string for the database for this project
--JWT_SECRET <br>
+- JWT_SECRET <br>
 Which is used to create token when registering and logging user. This can be set to any value but preferably to a long random one.
 
 # MongoDB setup
